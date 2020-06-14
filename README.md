@@ -1,0 +1,2 @@
+# Jiukkajitsu
+Tiddlywiki sivu painitekniikoille
